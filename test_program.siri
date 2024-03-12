@@ -1,0 +1,18 @@
+HeySiri 
+{
+    siri_intger a = 5;
+    siri_intger b = 3;
+    siri_string c = "hello";
+    siri_intger d = a + b;
+
+    // This is a comment line
+    
+    siri_say(siri_intger, a + b);
+    siri_say(siri_intger, a - b);
+    siri_say(siri_intger, a * b);
+    siri_say(siri_intger, a / b);
+    siri_say(siri_string, c);
+    siri_say(siri_intger, d);
+
+}
+
